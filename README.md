@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, NestJS, Django**
 
-- 👯 I’m looking for a 6 months internship [in full stack development](www.linkedin.com/in/marinesenechal)
+- 👯 I’m looking for a 6 months internship in full stack development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
